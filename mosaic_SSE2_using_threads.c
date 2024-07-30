@@ -1,16 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
- * File:   main.c
- * Author: AC-1
- *
- * Created on 13 de abril de 2023, 17:38
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
